@@ -1,2 +1,2 @@
-# programmers-solve
-프로그래머스 알고리즘 문제 풀이 스터디
+# problem-solve
+알고리즘 문제 풀이 스터디
